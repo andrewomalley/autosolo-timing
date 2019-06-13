@@ -1,0 +1,23 @@
+Requirements Specification
+==========================
+
+Overview
+--------
+
+The intent is to have a system to allow competitors/timekeepers to have quick access to all times and positions in the event.  The system should also allow non-technical timekeepers to enter data in a quick an efficient manner with the ability to alter times in the event of a mistake.  This should be displayed on TV/monitor screens and also have the ability for competitors to access the same information on a mobile device.
+
+Timekeepers/Officials
+---------------------
+
+Configure an event to define specific parameters:
+    - Name of event
+    - Date of event
+    - Number of courses
+    - Number of runs per course
+    - Competitor No.
+    - Competitor Name
+    - Class Entered
+
+Option to import the above data from a spreadsheet - this will allow
+
+Enter times per competitor
